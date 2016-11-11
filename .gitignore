@@ -1,0 +1,15 @@
+db/
+incremental_db/
+output_files/
+*.swp
+*.bak
+
+
+*.o
+*.a
+*.d
+*.elf
+
+*.pyc
+
+.qsys_edit/
